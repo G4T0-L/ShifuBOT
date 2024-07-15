@@ -1,0 +1,23 @@
+{
+  "name": "shifu",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": ""
+  },
+  "author": "G4T0L",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "exceljs": "^4.4.0",
+    "moment": "^2.30.1",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.6.0"
+  }
+}
